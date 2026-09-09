@@ -54,10 +54,6 @@ Files:
 - 03_FULL_ADDER/full_adder.v
 - 03_FULL_ADDER/full_adder_tb.v
 
-### Full Adder in Verilog
-
-live stimulation link:
-https://edaplayground.com/x/YmRh
 
 Logic:
 - Sum = a XOR b XOR cin
