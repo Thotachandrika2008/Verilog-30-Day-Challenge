@@ -38,7 +38,7 @@ Truth Table Verified ✅
 - Sum: 0,1,1,0
 - Carry: 0,0,0,1
 
-Proof: []
+Proof: [https://edaplayground.com/x/kd2U]
 
 Files:
 - `02_HALF_ADDER/half_adder.v`
