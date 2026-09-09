@@ -1,3 +1,10 @@
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+![Challenge](https://img.shields.io/badge/Challenge-30_Days-green)
+![Status](https://img.shields.io/badge/Day-01_Completed-orange)
+
+### 🔗 Live Repo
+https://github.com/Thotachandrika2008/Verilog-30-Day-Challenge
+
 # Verilog 30-Day Challenge 🚀
 
 > 30-day journey learning Verilog from basic gates to FSM. Daily practice on EDA Playground.
