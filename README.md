@@ -42,4 +42,23 @@ Proof: [https://edaplayground.com/x/kd2U]
 
 Files:
 - `02_HALF_ADDER/half_adder.v`
-- `02_HALF_ADDER/half_adder_tb.v`
+- `02_HALF_ADDER/half_adder_tb.v
+
+## Full Adder in Verilog 
+live stimulation link :https://edaplayground.com/x/YmRh
+
+
+**Logic:**
+- Sum = a XOR b XOR cin
+- Cout = (a & b) | (b & cin) | (a & cin)
+
+**Truth Table:**
+| a | b | cin | sum | cout |
+|---|---|-----|-----|------|
+| 0 | 0 | 0   | 0   | 0    |
+| 0 | 0 | 1   | 1   | 0    |
+... (8 rows)
+
+**Waveform:** []
+
+**Tools:** Verilog, EDA Playground
