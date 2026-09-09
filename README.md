@@ -1,6 +1,6 @@
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Challenge](https://img.shields.io/badge/Challenge-30_Days-green)
-![Status](https://img.shields.io/badge/Day-02_Completed-orange)
+![Status](https://img.shields.io/badge/Day-03_Completed-orange)
 
 ### 🔗 Live Repo
 https://github.com/Thotachandrika2008/Verilog-30-Day-Challenge
@@ -14,7 +14,7 @@ https://github.com/Thotachandrika2008/Verilog-30-Day-Challenge
 |-----|---------|--------|----------|
 | 01 | AND Gate | ✅ Done | [https://edaplayground.com/x/ASir] |
 | 02 | Half Adder | ✅Done | https://edaplayground.com/x/kd2U|
-| 03 | Full Adder | ⏳ Pending | |
+| 03 | Full Adder | ✅Done | https://edaplayground.com/x/YmRh|
 
 ### 🛠️ Tools Used
 - EDA Playground
