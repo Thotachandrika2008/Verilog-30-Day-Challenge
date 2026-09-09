@@ -44,21 +44,35 @@ Files:
 - `02_HALF_ADDER/half_adder.v`
 - `02_HALF_ADDER/half_adder_tb.v
 
-## Full Adder in Verilog 
-live stimulation link :https://edaplayground.com/x/YmRh
+## Day 03: Full Adder in Verilog
 
+Truth Table Verified ✅
+- Sum: 0,1,1,0,1,0,0,1
+- Cout: 0,0,0,1,0,1,1,1
 
-**Logic:**
+Proof: [https://edaplayground.com/x/YmRh]
+
+Files:
+- 03_FULL_ADDER/full_adder.v
+- 03_FULL_ADDER/full_adder_tb.v
+
+### Full Adder in Verilog
+
+live stimulation link:
+https://edaplayground.com/x/YmRh
+
+Logic:
 - Sum = a XOR b XOR cin
 - Cout = (a & b) | (b & cin) | (a & cin)
 
-**Truth Table:**
-| a | b | cin | sum | cout |
+Truth Table:
+| a | b | cin | Sum | Cout |
 |---|---|-----|-----|------|
 | 0 | 0 | 0   | 0   | 0    |
 | 0 | 0 | 1   | 1   | 0    |
-... (8 rows)
-
-**Waveform:** []
-
-**Tools:** Verilog, EDA Playground
+| 0 | 1 | 0   | 1   | 0    |
+| 0 | 1 | 1   | 0   | 1    |
+| 1 | 0 | 0   | 1   | 0    |
+| 1 | 0 | 1   | 0   | 1    |
+| 1 | 1 | 0   | 0   | 1    |
+| 1 | 1 | 1   | 1   | 1    |
