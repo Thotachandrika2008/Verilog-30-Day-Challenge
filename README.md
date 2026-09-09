@@ -32,3 +32,14 @@ Truth Table Verified ✅
 Output: 0,0,0,1
 
 Proof: ![https://edaplayground.com/x/ASir](waveform.png)
+## Day 02: Half Adder
+
+Truth Table Verified ✅ 
+- Sum: 0,1,1,0
+- Carry: 0,0,0,1
+
+Proof: []
+
+Files:
+- `02_HALF_ADDER/half_adder.v`
+- `02_HALF_ADDER/half_adder_tb.v`
