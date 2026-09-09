@@ -12,7 +12,7 @@ https://github.com/Thotachandrika2008/Verilog-30-Day-Challenge
 ### 🔥 Progress
 | Day | Project | Status | EDA Link |
 |-----|---------|--------|----------|
-| 01 | AND Gate | ✅ Done | [Link] |
+| 01 | AND Gate | ✅ Done | [https://edaplayground.com/x/ASir] |
 | 02 | Half Adder | 🔄 Next | |
 | 03 | Full Adder | ⏳ Pending | |
 
