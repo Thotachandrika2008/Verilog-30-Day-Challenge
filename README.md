@@ -1,6 +1,6 @@
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Challenge](https://img.shields.io/badge/Challenge-30_Days-green)
-![Status](https://img.shields.io/badge/Day-01_Completed-orange)
+![Status](https://img.shields.io/badge/Day-02_Completed-orange)
 
 ### 🔗 Live Repo
 https://github.com/Thotachandrika2008/Verilog-30-Day-Challenge
