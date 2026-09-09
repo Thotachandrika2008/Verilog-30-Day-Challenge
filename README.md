@@ -26,3 +26,9 @@ Thota Chandrika - ECE | VLSI Aspirant | Hyderabad
 
 ---
 ⭐ Star this repo if you are also learning!
+
+ # Day 01: AND Gate
+Truth Table Verified ✅
+Output: 0,0,0,1
+
+Proof: ![https://edaplayground.com/x/ASir](waveform.png)
