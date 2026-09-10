@@ -1,4 +1,4 @@
-// Day 02: Half Adder
+//  02: Half Adder
 module half_adder(
     input a, b,
     output sum, carry
