@@ -12,7 +12,7 @@ https://github.com/Thotachandrika2008/Verilog
 |---------|--------|----------|
  | AND Gate | ✅ Done | [https://edaplayground.com/x/ASir] |
 | Half Adder | ✅Done | https://edaplayground.com/x/kd2U|
-| Full Adder | ✅Done | https://edaplayground.com/x/YmRh|
+| Full Adder | ✅Done | https://edaplayground.com/x/V4Pj|
 
 ### 🛠️ Tools Used
 - EDA Playground
@@ -48,7 +48,7 @@ Truth Table Verified ✅
 - Sum: 0,1,1,0,1,0,0,1
 - Cout: 0,0,0,1,0,1,1,1
 
-Proof: [https://edaplayground.com/x/YmRh]
+Proof: [https://edaplayground.com/x/V4Pj]
 
 Files:
 - 03_FULL_ADDER/full_adder.v
@@ -60,7 +60,7 @@ Logic:
 - Cout = (a & b) | (b & cin) | (a & cin)
 
 Truth Table:
-| a | b | cin | Sum | Cout |
+| a | b | cin | Sum | Carry |
 |---|---|-----|-----|------|
 | 0 | 0 | 0   | 0   | 0    |
 | 0 | 0 | 1   | 1   | 0    |
