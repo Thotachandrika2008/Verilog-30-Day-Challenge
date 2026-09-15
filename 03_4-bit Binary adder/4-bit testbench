@@ -1,0 +1,50 @@
+module tb;
+
+    reg [3:0] a, b;
+    reg cin;
+
+    wire [3:0] s;
+    wire cout;
+
+    adder_subtractor DUT (
+        .a(a),
+        .b(b),
+        .cin(cin),
+        .s(s),
+        .cout(cout)
+    );
+
+    initial begin
+
+        $monitor("a=%b b=%b cin=%b s=%b cout=%b",
+                  a, b, cin, s, cout);
+
+        // Addition: 5 + 3 = 8
+        a = 4'b0101;
+        b = 4'b0011;
+        cin = 0;
+        #10;
+
+        // Addition: 7 + 2 = 9
+        a = 4'b0111;
+        b = 4'b0010;
+        cin = 0;
+        #10;
+
+        // Subtraction: 7 - 3 = 4
+        a = 4'b0111;
+        b = 4'b0011;
+        cin = 1;
+        #10;
+
+        // Subtraction: 9 - 4 = 5
+        a = 4'b1001;
+        b = 4'b0100;
+        cin = 1;
+        #10;
+
+        $finish;
+
+    end
+
+endmodule
